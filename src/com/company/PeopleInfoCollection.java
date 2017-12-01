@@ -1,7 +1,6 @@
 package com.company;
 
 import com.google.gson.Gson;
-
 import java.io.IOException;
 import java.nio.file.FileSystems;
 import java.nio.file.Files;
